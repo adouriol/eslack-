@@ -1,1 +1,1 @@
-web: pip install . -U && eslack-run
+web: pip install . -U && eslack2-run
